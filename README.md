@@ -1,0 +1,1 @@
+This is an app that will scraping a webpage and return the data contained. If the data has changed then it will send out an email informing the user of the change. 
